@@ -1,4 +1,4 @@
-package com.test.cryptoapp.POJO
+package com.test.cryptoapp.pojo
 
 
 import com.google.gson.JsonObject

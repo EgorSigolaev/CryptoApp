@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
-import com.test.cryptoapp.POJO.CoinPriceInfo
+import com.test.cryptoapp.pojo.CoinPriceInfo
 import com.test.cryptoapp.R
 import kotlinx.android.synthetic.main.item_coin_info.view.*
 

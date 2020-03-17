@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.test.cryptoapp.Adapter.CoinInfoAdapter
-import com.test.cryptoapp.POJO.CoinPriceInfo
+import com.test.cryptoapp.pojo.CoinPriceInfo
 import com.test.cryptoapp.R
 import com.test.cryptoapp.ViewModel.CoinViewModel
 import kotlinx.android.synthetic.main.activity_coin_price_list.*

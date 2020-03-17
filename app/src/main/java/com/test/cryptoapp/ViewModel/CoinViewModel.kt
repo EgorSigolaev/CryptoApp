@@ -8,8 +8,8 @@ import com.google.gson.Gson
 import com.test.cryptoapp.API.ApiFactory
 import com.test.cryptoapp.Database.AppDatabase
 import com.test.cryptoapp.Activity.CoinPriceListActivity
-import com.test.cryptoapp.POJO.CoinPriceInfo
-import com.test.cryptoapp.POJO.CoinPriceInfoRawData
+import com.test.cryptoapp.pojo.CoinPriceInfo
+import com.test.cryptoapp.pojo.CoinPriceInfoRawData
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers

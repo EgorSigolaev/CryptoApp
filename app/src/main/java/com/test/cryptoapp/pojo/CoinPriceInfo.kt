@@ -1,4 +1,4 @@
-package com.test.cryptoapp.POJO
+package com.test.cryptoapp.pojo
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
